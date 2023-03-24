@@ -1,14 +1,19 @@
-{"name": "updated-ramadan package",
-    "version": "4.2.7",
-    "description": "https://fubotv24.live/",
-    "main": "index.js",
-    "scripts": {
-      "test": "test"
-    },
-    "repository": {
-      "type": "git",
-      "url": "git"
-    },
-    "author": " orjit",
-    "license": "ISC"
-  }
+{
+  "name": "isramdan",
+  "version": "1.0.0",
+  "description": "this is ramdan package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ratibur\\",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bdhappyfamily/npmpack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bdhappyfamily/npmpack/issues"
+  },
+  "homepage": "https://github.com/bdhappyfamily/npmpack#readme"
+}
