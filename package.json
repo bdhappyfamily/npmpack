@@ -1,6 +1,6 @@
 {
-  "name": "Japan vs Uruguay Live",
-  "version": "1.3.0",
+  "name": "JapanvsUruguayLive",
+  "version": "1.4.0",
   "description": "this is ramdan package",
   "main": "index.js",
   "scripts": {
