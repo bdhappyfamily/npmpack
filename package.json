@@ -1,0 +1,14 @@
+{"name": "updated-ramadan package",
+    "version": "4.2.7",
+    "description": "https://fubotv24.live/",
+    "main": "index.js",
+    "scripts": {
+      "test": "test"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git"
+    },
+    "author": " orjit",
+    "license": "ISC"
+  }
